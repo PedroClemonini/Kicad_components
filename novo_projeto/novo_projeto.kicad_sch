@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "c0ea3d43-a3f7-4350-879c-bb04e86ffdf1")
 	(paper "A4")
+	(title_block
+		(title "Aula LPE06")
+		(rev "1")
+		(company "Pedro Clemonini")
+		(comment 1 "Projeto teste")
+	)
 	(lib_symbols
 		(symbol "Clemonini_Lbrary:Bluepill"
 			(exclude_from_sim no)
